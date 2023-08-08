@@ -25,9 +25,4 @@ import seaborn as sns
 * [Regression from scratch — Wine quality prediction](https://medium.com/datadriveninvestor/regression-from-scratch-wine-quality-prediction-d61195cb91c8)
 * [Apoorva Dave's repo](https://github.com/apoorva-dave)
 
-
-### Contact information
-
-For any communication relating to this project, please email us at contact@thetaprime.io.
-
 ![alt text](thetaprime_shape.png)
